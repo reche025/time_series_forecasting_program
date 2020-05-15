@@ -4,6 +4,7 @@
  - This program will assist users in forecasting time series data by simply inputting historical time series data.
  - The program will teach itself what the best fitting model to use to make the predictions.
  - Side-note: This program is intended to run from an executable file, however if you have an environment set up with all the dependencies installed then you can run the program by typing ```streamlit run main.py``` from the terminal within the working directory the file lives in.
+ - Here's a presentation with a bit more detail explaining how the program works https://docs.google.com/presentation/d/1qRc9BuT6G0Hl5d71F0xWHXlksj4RajInXc9K6a92xeY/edit?usp=sharing
 
 ## Program Requirements:
  - This program takes CSV files only
